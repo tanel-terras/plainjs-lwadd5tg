@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/tanel-terras.plainjs-lwadd5tg",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve H3tTbcKKH4U2E1yTYPjD --open"
+  }
+}
